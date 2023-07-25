@@ -16,7 +16,7 @@
 ### clone 项目到本地
 - github地址
 ```
-git clone https://github.com/yupoxiong/BearAdmin.git
+https://github.com/chenshengmian/thinkphp.git
 ```
 ### 安装项目依赖
 在项目根目录运行扩展安装命令
