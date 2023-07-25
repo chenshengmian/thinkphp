@@ -18,10 +18,6 @@
 ```
 git clone https://github.com/yupoxiong/BearAdmin.git
 ```
-- 码云地址
-```
-git clone https://gitee.com/yupoxiong/BearAdmin.git
-```
 ### 安装项目依赖
 在项目根目录运行扩展安装命令
 ```
